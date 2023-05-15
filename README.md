@@ -2,6 +2,8 @@
 
 This repository contains my completed work for the "Machine Learning with Python" course taught by Frederick Nwanganga. This course provides an introduction to machine learning and step-by-step guidance on how to get started with machine learning using Python.
 
+https://colab.research.google.com/github/yalawi1/dataForMachineLearning/blob/main/ML_YousefAlawi.ipynb
+
 ## Course Overview
 
 The course covers the following topics:
