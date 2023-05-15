@@ -16,8 +16,8 @@ The course covers the following topics:
 
 The repository is structured as follows:
 
-- `data`: contains the datasets used in the course.
-- `notebooks`: contains the Jupyter notebooks used in the course.
+- `data`: contains the datasets used
+- `notebooks`: contains the Colab notebook.
 - `README.md`: this file.
 
 
