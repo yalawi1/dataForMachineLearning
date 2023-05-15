@@ -16,8 +16,8 @@ The course covers the following topics:
 
 The repository is structured as follows:
 
-- `data`: contains the datasets used
-- `notebooks`: contains the Colab notebook.
+- `bikes.csv`: contains the datasets used
+- `ML-YousefAlawi.ipynb`: contains the Colab notebook.
 - `README.md`: this file.
 
 
